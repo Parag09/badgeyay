@@ -4,7 +4,7 @@
 [![Codecov branch](https://img.shields.io/codecov/c/github/fossasia/badgeyay/development.svg?style=flat-square&label=Codecov+Coverage)](https://codecov.io/gh/fossasia/badgeyay)
 [![Gitter](https://img.shields.io/badge/chat-on%20gitter-ff006f.svg?style=flat-square)][gitter]
 
-`badgeyay` is a simple badge generator with a simple web UI to add data and generate printable badges in a pdf.
+"badgeyay"  is a simple badge generator with a simple web UI to add data and generate printable badges in a pdf.
 
 The user can:
   * Choose size of badges
@@ -26,11 +26,11 @@ Our current goal is to provide an interface to generate badges for the FOSSASIA 
 
 If you like to join developing,
 
-- you can [chat on gitter][gitter], mentioning the maintainers.
-- you can find/create [issues](https://github.com/fossasia/badgeyay/issues) and solve them.
-  - When you solve an issue, you do not own it. Share your progress via a Pull-Requst as soon as possible.
-  - Discuss with others who work on the issue about the best solution. It is your responsibility, not the maintainer's to choose the best solution.
-- If in doubt, let's follow [CCCC][cccc].
+	- you can [chat on gitter][gitter], mentioning the maintainers.
+	- you can find/create [issues](https://github.com/fossasia/badgeyay/issues) and solve them.
+  	- When you solve an issue, you do not own it. Share your progress via a Pull-Requst as soon as possible.
+  	- Discuss with others who work on the issue about the best solution. It is your responsibility, not the maintainer's to choose the best solution.
+	- If you are in doubt, let's follow [CCCC][cccc].
 
 Data model
 ----------
